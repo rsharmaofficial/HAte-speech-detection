@@ -14,9 +14,12 @@ Deep Learning: 🧠 Utilizes neural networks for training and inference, enablin
 Node.js: ⚙️ Powers the server-side logic and facilitates seamless communication between the backend and frontend.
 HTML, CSS, JavaScript: 🌐 Used for building an intuitive and responsive frontend interface for users.
 How to Use:
-Clone the Repository: git clone https://github.com/your-username/hate-speech-detection.git
+Clone the Repository: git clone https://github.com/rsharmaofficial/HAte-speech-detection.git
 Install Dependencies: Navigate to the project directory and run npm install for frontend dependencies and pip install -r requirements.txt for backend dependencies.
 Start the Server: Run npm start to start the Node.js server for the frontend and python app.py to start the Python backend.
 Access the Application: 🌟 Open your web browser and navigate to http://localhost:3000 to access the hate speech detection system.
 Contribution:
 🙌 Contributions are welcome! Feel free to submit issues or pull requests to help improve the project.
+
+
+please Add node.js to your environment to run the project
