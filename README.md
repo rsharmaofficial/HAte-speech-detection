@@ -5,6 +5,7 @@ Welcome to the Hate Speech Detection project repository! This project harnesses 
 
 Features:
 Advanced Machine Learning: 🤖 Utilizes state-of-the-art deep learning models to accurately detect hate speech in text data.
+:
 Scalable Backend: 🚀 Python-based backend ensures robustness and scalability for processing large volumes of textual data.
 Interactive Frontend: 🎨 A user-friendly interface developed with Node.js, HTML, CSS, and JavaScript allows seamless interaction with the hate speech detection system.
 Key Technologies Used:
